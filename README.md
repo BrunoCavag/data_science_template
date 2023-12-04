@@ -7,12 +7,12 @@ To start working just follow this steps:
 1. Update the *requirements.txt* file if needed.
 2. Run the following bash command:
 
-```console
+```bash
 source ./py_env.sh full_create #your env name  
 ```
 
 3. If you finish your work use the folliwing command to erase the environment:
 
-```console
+```bash
 source ./py_env.sh remove #your env name  
 ```
