@@ -160,4 +160,15 @@ cython_debug/
 #.idea/
 
 
-data/*
+data/*.csv
+data/*.tsv
+data/*.parquet
+data/*.geoparquet
+data/*.txt
+data/*.xlsx
+
+
+results/*.csv
+results/*.tsv
+results/*.parquet
+results/*.geoparquet
